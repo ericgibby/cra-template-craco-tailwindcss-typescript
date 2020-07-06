@@ -4,5 +4,16 @@
   "description": "TypeScript template for Create React App that configures Tailwind CSS through CRACO.",
   "repository": "https://github.com/ericgibby/cra-template-craco-tailwindcss-typescript.git",
   "author": "Eric Gibby",
-  "license": "MIT"
+  "license": "MIT",
+  "keywords": [
+    "react",
+    "create-react-app",
+    "template",
+    "tailwind",
+    "craco"
+  ],
+  "files": [
+    "template",
+    "template.json"
+  ]
 }
