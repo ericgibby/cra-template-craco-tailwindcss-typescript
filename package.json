@@ -1,6 +1,6 @@
 {
   "name": "cra-template-craco-tailwindcss-typescript",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "TypeScript template for Create React App that configures Tailwind CSS through CRACO.",
   "repository": "https://github.com/ericgibby/cra-template-craco-tailwindcss-typescript.git",
   "author": "Eric Gibby",
@@ -15,5 +15,6 @@
   "files": [
     "template",
     "template.json"
-  ]
+  ],
+  "main": "template.json"
 }
